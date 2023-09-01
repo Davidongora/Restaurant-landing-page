@@ -2,7 +2,7 @@
  import Navbar from './Navbar';
 //  import { BannerImage } from "../Assets/home-banner-background.png"
  import  BannerImage  from "../Assets/home-banner-image.png"
- import { FiArrowRight } from "react-icons/fi";
+//  import { FiArrowRight } from "react-icons/fi";
 import { ArrowRight } from '@mui/icons-material';
 
  const Home = () => {

@@ -16,7 +16,7 @@ const Work = () => {
             text : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et, repudiandae."
         },
         {
-            image: PickMeals,
+            image: DeliveryMeals,
             title: "Pick Meals",
             text : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et, repudiandae."
         },

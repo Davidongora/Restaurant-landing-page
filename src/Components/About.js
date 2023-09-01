@@ -2,9 +2,7 @@ import React from 'react';
 import AboutBackgroundImage from "../Assets/about-background-image.png";
 import AboutBackground from "../Assets/about-background.png";
 import { BsFillPlayCircleFill } from 'react-icons/bs';
-import { PlayArrowOutlined } from '@mui/icons-material';
-
-
+// import { PlayArrowOutlined } from '@mui/icons-material';
 
 const About = () => {
   return (
